@@ -250,10 +250,14 @@ aws-serverless-etl-pipeline/
 │   └── architecture.png
 
 │── screenshots/
-│   ├── s3_bucket.png
-│   ├── lambda_function.png
-│   ├── glue_job.png
-│   └── output.png
+│   ├── s3.png
+│   ├── s3_input_bucket.png
+│   ├── glue_script_bucket.png
+│   └── iam_role_permissions.png
+│   ├── lambda_trigger_and_code.png
+│   ├── glue_job_success.png
+│   ├── output_json_bucket.png
+
 ```
 
 ---
