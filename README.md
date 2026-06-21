@@ -12,6 +12,9 @@ The project showcases how AWS serverless services can be combined to build scala
 
 ## Architecture
 
+<img width="1108" height="607" alt="image" src="https://github.com/user-attachments/assets/9b90feee-8dd3-4b1d-a845-c6aa716e74dc" />
+
+
 ```
 Employee.csv + Department.csv
 
